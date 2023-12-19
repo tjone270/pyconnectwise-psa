@@ -1,0 +1,32 @@
+# BoardItem
+
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**info** | **Dict[str, str]** |  | [optional] 
+**board** | [**BoardReference**](BoardReference.md) |  | [optional] 
+**id** | **int** |  | [optional] 
+**inactive_flag** | **bool** |  | [optional] 
+**name** | **str** |  Max length: 50; | 
+
+## Example
+
+```python
+from connectwise_psa.models.board_item import BoardItem
+
+# TODO update the JSON string below
+json = "{}"
+# create an instance of BoardItem from a JSON string
+board_item_instance = BoardItem.from_json(json)
+# print the JSON string representation of the object
+print BoardItem.to_json()
+
+# convert the object into a dict
+board_item_dict = board_item_instance.to_dict()
+# create an instance of BoardItem from a dict
+board_item_form_dict = board_item.from_dict(board_item_dict)
+```
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

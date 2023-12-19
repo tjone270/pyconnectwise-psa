@@ -1,0 +1,34 @@
+# ScheduleTypeInfo
+
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**info** | **Dict[str, str]** |  | [optional] 
+**charge_code** | [**ChargeCodeReference**](ChargeCodeReference.md) |  | [optional] 
+**id** | **int** |  | [optional] 
+**identifier** | **str** |  | [optional] 
+**name** | **str** |  | [optional] 
+**system_flag** | **bool** |  | [optional] 
+**where** | [**ServiceLocationReference**](ServiceLocationReference.md) |  | [optional] 
+
+## Example
+
+```python
+from connectwise_psa.models.schedule_type_info import ScheduleTypeInfo
+
+# TODO update the JSON string below
+json = "{}"
+# create an instance of ScheduleTypeInfo from a JSON string
+schedule_type_info_instance = ScheduleTypeInfo.from_json(json)
+# print the JSON string representation of the object
+print ScheduleTypeInfo.to_json()
+
+# convert the object into a dict
+schedule_type_info_dict = schedule_type_info_instance.to_dict()
+# create an instance of ScheduleTypeInfo from a dict
+schedule_type_info_form_dict = schedule_type_info.from_dict(schedule_type_info_dict)
+```
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
