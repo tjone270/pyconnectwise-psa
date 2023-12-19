@@ -1,6 +1,6 @@
 # connectwise_psa.TicketsApi
 
-All URIs are relative to *https://aus-api.myconnectwise.net/v4_6_release/apis/3.0*
+All URIs are relative to *https://api-aus.myconnectwise.net/v4_6_release/apis/3.0*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
@@ -46,10 +46,10 @@ import connectwise_psa
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -110,10 +110,10 @@ import connectwise_psa
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -177,10 +177,10 @@ from connectwise_psa.models.ticket import Ticket
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -258,10 +258,10 @@ from connectwise_psa.models.ticket import Ticket
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -341,10 +341,10 @@ from connectwise_psa.models.activity_reference import ActivityReference
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -424,10 +424,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -507,10 +507,10 @@ from connectwise_psa.models.configuration_reference import ConfigurationReferenc
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -590,10 +590,10 @@ from connectwise_psa.models.configuration_reference import ConfigurationReferenc
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -675,10 +675,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -758,10 +758,10 @@ from connectwise_psa.models.document_reference import DocumentReference
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -841,10 +841,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -924,10 +924,10 @@ from connectwise_psa.models.product_reference import ProductReference
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1007,10 +1007,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1090,10 +1090,10 @@ from connectwise_psa.models.schedule_entry_reference import ScheduleEntryReferen
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1173,10 +1173,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1256,10 +1256,10 @@ from connectwise_psa.models.time_entry_reference import TimeEntryReference
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1339,10 +1339,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1422,10 +1422,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1504,10 +1504,10 @@ from connectwise_psa.models.ticket import Ticket
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1573,10 +1573,10 @@ from connectwise_psa.models.ticket import Ticket
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1641,10 +1641,10 @@ from connectwise_psa.models.ticket_bundle import TicketBundle
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1710,10 +1710,10 @@ from connectwise_psa.models.configuration_reference import ConfigurationReferenc
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1780,10 +1780,10 @@ from connectwise_psa.models.success_response import SuccessResponse
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1850,10 +1850,10 @@ from connectwise_psa.models.ticket_merge import TicketMerge
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1920,10 +1920,10 @@ from connectwise_psa.models.ticket import Ticket
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -1987,10 +1987,10 @@ from connectwise_psa.models.ticket import Ticket
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 

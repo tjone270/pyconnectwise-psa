@@ -83,7 +83,7 @@ conf = connectwise_psa.Configuration(
                  ) -> None:
         """Constructor
         """
-        self._base_path = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0" if host is None else host
+        self._base_path = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0" if host is None else host
         """Default Base url
         """
         self.server_index = 0 if server_index is None and host is None else server_index
@@ -384,7 +384,7 @@ conf = connectwise_psa.Configuration(
                "OS: {env}\n"\
                "Python Version: {pyversion}\n"\
                "Version of the API: 2022.2\n"\
-               "SDK Package Version: 1.0.0".\
+               "SDK Package Version: 1.0.1".\
                format(env=sys.platform, pyversion=sys.version)
 
     def get_host_settings(self):
@@ -394,7 +394,7 @@ conf = connectwise_psa.Configuration(
         """
         return [
             {
-                'url': "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0",
+                'url': "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0",
                 'description': "ConnectWise API endpoint (Australia)",
             }
         ]

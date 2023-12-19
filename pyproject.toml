@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "connectwise_psa"
-version = "1.0.0"
+version = "1.0.1"
 description = "ConnectWise PSA"
 authors = ["OpenAPI Generator Community <team@openapitools.org>"]
 license = "NoLicense"

@@ -1,6 +1,6 @@
 # connectwise_psa.WorkflowNotifyTypesApi
 
-All URIs are relative to *https://aus-api.myconnectwise.net/v4_6_release/apis/3.0*
+All URIs are relative to *https://api-aus.myconnectwise.net/v4_6_release/apis/3.0*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
@@ -27,10 +27,10 @@ from connectwise_psa.models.workflow_notify_type import WorkflowNotifyType
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -110,10 +110,10 @@ from connectwise_psa.models.workflow_notify_type import WorkflowNotifyType
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -195,10 +195,10 @@ from connectwise_psa.models.workflow_notify_type_info import WorkflowNotifyTypeI
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -280,10 +280,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -363,10 +363,10 @@ from connectwise_psa.models.workflow_notify_type_info import WorkflowNotifyTypeI
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
@@ -446,10 +446,10 @@ from connectwise_psa.models.count import Count
 from connectwise_psa.rest import ApiException
 from pprint import pprint
 
-# Defining the host is optional and defaults to https://aus-api.myconnectwise.net/v4_6_release/apis/3.0
+# Defining the host is optional and defaults to https://api-aus.myconnectwise.net/v4_6_release/apis/3.0
 # See configuration.py for a list of all supported configuration parameters.
 configuration = connectwise_psa.Configuration(
-    host = "https://aus-api.myconnectwise.net/v4_6_release/apis/3.0"
+    host = "https://api-aus.myconnectwise.net/v4_6_release/apis/3.0"
 )
 
 
